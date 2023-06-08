@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <TodoList/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TodoList from './components/TodoList';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    TodoList
   }
 }
 </script>
@@ -20,7 +19,12 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  background-image: url('assets/background.png');
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background-repeat: repeat;
+  background-size: cover;
+  background-position: center;
 }
 </style>
