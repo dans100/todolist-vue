@@ -4,9 +4,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/dans100/todolist-vue/src/assets/empty_todolist.png" alt="project-screenshot" width="800" height="385/">
+<img src="https://github.com/dans100/todolist-vue/blob/main/src/assets/empty_todolist.png" alt="project-screenshot" width="800" height="385/">
 
-<img src="https://raw.githubusercontent.com/dans100/todolist-vue/src/assets/todolist.png" alt="project-screenshot" width="800" height="385/">
+<img src="https://github.com/dans100/todolist-vue/blob/main/src/assets/todolist.png" alt="project-screenshot" width="800" height="385/">
 
 
 ## Project setup
